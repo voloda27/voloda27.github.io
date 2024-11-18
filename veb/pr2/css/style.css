@@ -20,7 +20,7 @@ h1, h2 {
 nav li {    float: left;
     width: 100px;}
 nav a {
-    display: block;    color: #343434;
+    display: block;    color: #575cbf;
     line-height: 4em;    font-weight: bold;
     text-align: center;}
     nav li a:hover {
